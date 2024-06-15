@@ -5,7 +5,7 @@
   </a>
   </kbd>
   
-  <h2 align="center">Spotify - 3 Aylık Premium Üretici - <a href="https://github.com/e">ᴇɴ</a>/<b>ᴛʀ</b></h2> 
+  <h2 align="center">Spotify - 3 Aylık Premium Üretici - <a href="https://github.com/vowia/Spotify-Premium-Generator-H-M-/blob/main/README.md">ᴇɴ</a>/<b>ᴛʀ</b></h2> 
   <p align="center">
     Spotify'ın 3 aylık premium kodlarını otomatik olarak oluşturmaya yönelik basit ve hızlı program (<b>benim tarafımdan yazıldı</b>)
     <br />
