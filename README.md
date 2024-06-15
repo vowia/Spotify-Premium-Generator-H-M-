@@ -5,7 +5,7 @@
   </a>
   </kbd>
   
-  <h2 align="center">Spotify - 3 Month Premium Creator - <b>ᴇɴ</b>/<a href="https://github.com/e">ᴛʀ</a></h2> 
+  <h2 align="center">Spotify - 3 Month Premium Creator - <b>ᴇɴ</b>/<a href="https://github.com/vowia/Spotify-Premium-Generator-H-M-/blob/main/READMD-TR.md">ᴛʀ</a></h2> 
   <p align="center">
     Simple and fast program to automatically generate spotify 3 months premium codes (<b>created by me</b>) 
     <br />
