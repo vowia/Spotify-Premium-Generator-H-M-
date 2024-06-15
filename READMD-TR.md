@@ -7,31 +7,31 @@
   
   <h2 align="center">Spotify - 3 Aylık Premium Üretici - <a href="https://github.com/e">ᴇɴ</a>/<b>ᴛʀ</b></h2> 
   <p align="center">
-    Simple and fast program to automatically generate spotify 3 months premium codes (<b>created by me</b>) 
+    Spotify'ın 3 aylık premium kodlarını otomatik olarak oluşturmaya yönelik basit ve hızlı program (<b>benim tarafımdan yazıldı</b>)
     <br />
     <br />
     <a href="https://discord.gg/softsmm">💬 Discord</a>
     ·
-    <a href="https://github.com/imvast/Discord-Account-Creator/issues">☕ Donate</a>
+    <a href="https://github.com/imvast/Discord-Account-Creator/issues">☕ Bağış</a>
   </p>
 </div>
 
 ---
 
 
-### ⚙️ Installation
+### ⚙️ İndirme
 
-- Requires: `Python 3.10+`
-- Requires: `Chrome 1.26+`
-- Install the requirements: `pip install -r requirements.txt`
-- Start: `python main.py` or run `start.bat`
+- Gerekli: `Python 3.10+`
+- Gerekli: `Chrome 1.26+`
+- İndirme komutu: `pip install -r requirements.txt`
+- Başlat: `python main.py` veya `start.bat` çalıştır.
 
 ---
 
-### 🔥 Features
+### 🔥 Özellikler
 
-- 3-4 premium codes per minute.
-- It can be run in the background, preventing the window from opening but continuing to run.
+- Dakikada 3-4 premium üretir
+- Arka planda çalıştırılarak pencerenin açılmasını engelleyebilir ancak çalışmaya devam edebilir
 ---
 
 
@@ -43,11 +43,11 @@
 
 ---
 
-### 📜 ChangeLog
+### 📜 Değişiklikler
 
 ```diff
 v0.0.1 ⋮ 15/6/2024
-! Initial release
+! İlk sürüm
 ```
 
 ---
